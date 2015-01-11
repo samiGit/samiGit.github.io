@@ -1,13 +1,13 @@
-# samiGit.github.io
+# My portfolio
 
 ## Hello world!
 
-My Github user page is at: 
+
+My Github user page: 
 https://github.com/samiGit/
 
-My Github Pages repo can be found at:  
+My Github Pages repo:  
 https://github.com/samiGit/samiGit.github.io/
 
-And, soon, you can see my customized homepage at:
-
+My customized homepage: 
 http://samiGit.github.io/
