@@ -2,8 +2,6 @@
 
 ## Hello world!
 
-This will be my main page, where I'll show my past and future projects with links to project repositories.
-
 My Github user page: 
 https://github.com/samiGit/
 
